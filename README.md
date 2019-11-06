@@ -10,3 +10,4 @@ This is a very simple and probably not a very good piece of software ( was done 
 2. The postgresql driver ( postgresql-42.2.8.jar ) should be added to the project through Intellij. ( can be done from the cmd line too )
 	- Open project structure. ( File > Project Sructure ) or Ctrl + Alt + Shift + S
 	- Add it as a library.
+3. It **Should** work on any given DB.
