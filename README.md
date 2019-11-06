@@ -2,7 +2,7 @@
 
 ## Motivation
 
-This is a very simple and probably not a very good piece of software ( was done in 45 min. ). I had an Assignment in Introduction To Databases where we should find FD's (functional dependencies) in a file with 44k lines of entities. It seemed like a trivial and time-consuming assignment and is, therefore, the reason why this tool was created.
+This is a very simple and probably not a very good piece of software ( this was done in a very short time ). I had an Assignment in Introduction To Databases where we should find FD's (functional dependencies) in a file with 44k lines of entities. It seemed like a trivial and time-consuming assignment and is, therefore, the reason for this tools existence.
 
 ## Note
 
