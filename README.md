@@ -7,7 +7,10 @@ This is a very simple and probably not a very good piece of software ( this was 
 ## Note
 
 1. The program only works for tables with entities in them, i is impossible for the prorgam to detect any FD's without entitie sin the table.
-2. The postgresql driver ( postgresql-42.2.8.jar ) should be added to the project through Intellij. ( can be done from the cmd line too )
-	- Open project structure. ( File > Project Sructure ) or Ctrl + Alt + Shift + S
-	- Add it as a library.
-3. It **Should** work on any given DB.
+2. It **Should** work on any given DB.
+
+## How to use
+
+1. Enter the database information and user details in Main.java
+2. Compile the two java file `javac *.java`
+3. run the program with `java -cp .:/home/daniel/Projects/FDs/postgresql-42.2.8.jar Main`
