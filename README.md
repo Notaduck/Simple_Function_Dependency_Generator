@@ -7,5 +7,7 @@ I had an Assignment in introduction to databases where we should find FD's (func
 
 ## Note
 
-The program only works for tables with entities in them, i is impossible for the prorgam to detect any FD's without entitie sin the table
-
+1. The program only works for tables with entities in them, i is impossible for the prorgam to detect any FD's without entitie sin the table.
+2. The postgresql driver ( postgresql-42.2.8.jar ) should be added to the project through Intellij. ( can be done from the cmd line too )
+	- Open project structure.
+	- Add it as a library.
