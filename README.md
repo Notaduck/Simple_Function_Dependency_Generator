@@ -13,4 +13,4 @@ This is a very simple and probably not a very good piece of software ( this was 
 
 1. Enter the database information and user details in Main.java
 2. Compile the two java file `javac *.java`
-3. run the program with `java -cp .:/home/daniel/Projects/FDs/postgresql-42.2.8.jar Main`
+3. run the program with `java -cp .:./postgresql-42.2.8.jar Main` ( I'm not sure if this will work on windows, however it should work on any unix system. )
